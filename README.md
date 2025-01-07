@@ -15,7 +15,7 @@ Aqui estão alguns exemplos dos wallpapers disponíveis:
 ![Preview 1024x768](wallpapers/Wallpapers1024x768/akiraBlue.png)
 
 ### 1920x1080
-![Preview 1920x1080](wallpapers/Wallpapers1980x1080/akirapurple.png)
+![Preview 1920x1080](wallpapers/Wallpapers1980x1080/akirablue.png)
 
 ## Licença
 
